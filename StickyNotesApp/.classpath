@@ -27,12 +27,11 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/hibernate-validator-5.0.1.Final.jar"/>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/spring-social-core-1.0.0.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/jackson-all-1.9.11.jar"/>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/jackson-mapper-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/spring-security-crypto-3.1.0.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sony/Desktop/jars/spring-social-dropbox-1.0.0.M1-0.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/CMPE/273/Project/dropbox-core-sdk-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/jackson-all-1.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/spring-social-dropbox-1.0.0.M1-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/spring-social-core-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/spring-security-crypto-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/spring-social-dropbox-1.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RashmiH/Downloads/dropbox-java-sdk-1.7.7/lib/dropbox-core-sdk-1.7.7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
